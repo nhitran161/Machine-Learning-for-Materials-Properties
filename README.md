@@ -26,7 +26,7 @@ This project utilizes `matminer` and `pymatgen` to extract physical meaning from
 * **Tools:** Google Colab, Kaggle API
 
 ## 📂 Repository Structure
-* `NANO281_lab3_Quynh_Tran.ipynb`: The main notebook with data loading, feature engineering, and model tuning.
+* `Machine_Learning_for_Materials_Properties (1).ipynb`: The main notebook with data loading, feature engineering, and model tuning.
 * `nanox81_train_data.csv`: Training dataset (chemical formulas & target energies).
 * `nanox81_test_data.csv`: Test dataset for final evaluation.
 
