@@ -4,7 +4,6 @@ This repository contains notebooks for machine learning applications in material
 Click the badge below to open the main notebook directly in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhitran161/Machine-Learning-for-Materials-Properties/blob/main/NANO281_lab3_Quynh_Tran.ipynb)
-# Machine Learning for Materials Properties
 
 ## 📌 Project Overview
 This project leverages machine learning to predict the **cohesive energy per atom ($E_c$)** of materials using the **MatPES r2SCAN dataset**. Cohesive energy is a critical indicator of thermodynamic stability, essential for accelerating the discovery of novel semiconductors and structural materials.
