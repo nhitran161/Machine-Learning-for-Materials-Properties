@@ -2,7 +2,7 @@
 
 This repository contains a machine learning pipeline for predicting material stability developed for the **NanoX81 Lab 3** Kaggle competition.
 
-[![Open In Colab](https://colab.research.google.com/github/nhitran161/Machine-Learning-for-Materials-Properties/blob/main/Machine_Learning_for_Materials_Properties%20(1).ipynb)
+[![Open In Colab]([https://colab.research.google.com/github/nhitran161/Machine-Learning-for-Materials-Properties/blob/main/Machine_Learning_for_Materials_Properties%20(1).ipynb](https://colab.research.google.com/drive/1hIkEtwKn8KlD3qiekmpeMHbQZPDeg74s?usp=sharing))
 
 ## 📌 Project Overview
 This project predicts the **cohesive energy per atom ($E_c$)** of materials using the **MatPES r2SCAN dataset**. Cohesive energy is a fundamental indicator of thermodynamic stability, critical for identifying viable candidates for semiconductors and structural applications.
